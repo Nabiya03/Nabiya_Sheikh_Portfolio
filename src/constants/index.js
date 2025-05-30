@@ -96,5 +96,5 @@ export const navLinks = [
   { name: "Experience", path: "experience" },
   { name: "Projects", path: "projects" },
   { name: "Skills", path: "skills" },
- // { name: "Contact", path: "contact" }
+ { name: "Contact", path: "contact" }
 ];
