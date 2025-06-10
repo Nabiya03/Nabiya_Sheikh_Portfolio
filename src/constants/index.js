@@ -53,6 +53,25 @@ export const projectsData = [
     // github: "https://github.com/username/portfolio",
     // demo: "https://portfolio.demo.com"
   }
+  ,
+  {
+    id: 7,
+    title: "Learn Sphere",
+    description: "A scalable e-learning platform enabling user authentication, course management, and secure payments, powering seamless educational experiences.",
+    image: "https://media.istockphoto.com/id/2172049889/photo/person-using-tablet-with-e-learning-icons-representing-online-education-distance-learning-and.jpg?s=612x612&w=0&k=20&c=tI27EzeMjn0aJakxQf49ZFZKNVLVz_CnsC-YXLfdvc0=",
+    tech: ["Node.js", "Express", "PostgreSQL", "Razorpay"],
+    // github: "https://github.com/username/portfolio",
+    // demo: "https://portfolio.demo.com"
+  },
+  {
+    id: 8,
+    title: "Bus Booking System",
+    description: "A robust bus booking system with gender-based seat constraints, secure payments, and an admin panel, ensuring safe and reliable reservations.",
+    image: "https://media.istockphoto.com/id/664927308/photo/woman-using-mobile-phone-app-to-purchase-bus-electronic-ticket.jpg?s=612x612&w=0&k=20&c=YNpbxIvHTIOYJqqJ0SQhBSNeQcRBsEwvrDQLS94hqNw=",
+    tech: ["Node.js", "Express", "PostgreSQL", "Razorpay", "Sequelize", "Winston"],
+    // github: "https://github.com/username/portfolio",
+    // demo: "https://portfolio.demo.com"
+  }
 ];
 
 export const skillsData = {
